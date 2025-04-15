@@ -1,4 +1,4 @@
-# 🧠 Neural Networks for Handwritten Digit Recognition (Multiclass)
+# 🧠 Neural Networks for Handwritten Digit Recognition
 
 This project is a beginner-friendly implementation of a neural network to recognize handwritten digits (0-9) using multiclass classification. It uses the popular [MNIST dataset](http://yann.lecun.com/exdb/mnist/) and is inspired by Andrew Ng’s Deep Learning Specialization.
 
