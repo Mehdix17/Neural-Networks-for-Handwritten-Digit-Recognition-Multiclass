@@ -37,3 +37,18 @@ This is a great learning project if you're starting out with machine learning an
    ```bash
    git clone https://github.com/Mehdix17/Neural-Networks-for-Handwritten-Digit-Recognition-Multiclass.git
    cd Neural-Networks-for-Handwritten-Digit-Recognition-Multiclass
+
+2. Open the notebook:
+   ```bash
+   jupyter notebook main.ipynb
+
+3. Run all cells and follow along!
+
+   ⚠️ Make sure you have NumPy and Matplotlib installed:
+   ```bash
+   pip install numpy matplotlib
+
+📈 Sample Output
+After training, the model should be able to recognize handwritten digits with good accuracy on test data. You can visualize predictions using matplotlib.
+
+📚 From the Andrew Ng’s Deep Learning Specialization
